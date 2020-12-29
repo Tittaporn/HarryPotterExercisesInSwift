@@ -1,5 +1,5 @@
 # HarryPotterExercisesInSwift
-These are exercise of basicprogramming language in Swift from Dev Mountain Pre-Course iOS development. It include 3 projects. 
+These are exercise of basic programming language in Swift from Dev Mountain Pre-Course iOS development. It include 3 projects. 
 
 ## What I learn
 
